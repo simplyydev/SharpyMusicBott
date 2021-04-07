@@ -10,6 +10,6 @@ Neither this, or PyTgCalls are fully stable.
 
 ## Credits
 
-- [Sharpshooter](https://t.me/itsHackerrReal): main developer
+- [Sharpshooter](https://t.me/itsHackerrReal): SC developer
 - [Marvin](https://github.com/BlackStoneReborn): Heroku support
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
